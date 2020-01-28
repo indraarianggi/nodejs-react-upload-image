@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server side: nodejs react upload image",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3",
+    "mongoose": "^5.8.10",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/www"
+  },
+  "keywords": [
+    "image",
+    "upload",
+    "nodejs",
+    "multer"
+  ],
+  "author": "Indra Arianggi",
+  "license": "ISC"
+}

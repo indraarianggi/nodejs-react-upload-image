@@ -4,7 +4,7 @@ import "./App.css";
 import DefaultImg from "./default-img.jpg";
 
 // Base api url being used
-const API_URL = "http://localhost:3000/";
+const API_URL = "http://localhost:8080";
 
 class App extends Component {
   constructor(props) {
