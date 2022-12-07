@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Server side: nodejs react upload image",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "cookie-parser": "^1.4.4",
     "debug": "^4.1.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "http-errors": "^1.7.3",
     "mongoose": "^5.8.10",
     "multer": "^1.4.2"
